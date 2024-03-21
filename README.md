@@ -28,7 +28,7 @@
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=jain-rithik&theme=radical&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=[%22contribs%22,%22issues%22]" alt="GitHub Stats" />
-     <img height=245 width=380 align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=jain-rithik&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages" />
+     <img height=245 width=350 align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=jain-rithik&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages" />
 </div>
 
 
