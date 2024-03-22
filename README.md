@@ -1,7 +1,7 @@
 ![logo](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
 <h1 align="center">Hi 👋, I'm Rithik Jain</h1>
 <h3 align="center">A Passionate Web Developer | Seeking Collaborative Opportunities</h3>
-<img align="right" alt="Coding" width="380" src="https://valesh.dev/images/coder.gif">
+<img align="right" alt="Coding" width="363" src="https://valesh.dev/images/coder.gif">
 
 <p align="left"> <a href="https://www.linkedin.com/in/jainrithik" target="_blank"><img src="https://img.shields.io/twitter/follow/RITHIKJAIN?logo=linkedin&style=for-the-badge" alt="rithikjain" /></a> </p>
 
