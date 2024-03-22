@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **<jainrithik2000@gmail.com>**
 
-- <p align="left"> <a href="https://www.linkedin.com/in/jainrithik" target="_blank"><img src="https://img.shields.io/twitter/follow/RITHIKJAIN?logo=linkedin&style=for-the-badge" alt="rithikjain" /></a> </p>
+- 🤝 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jainrithik)
 <br>
 <br>
 
