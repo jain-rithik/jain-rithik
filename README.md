@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jain-rithik](https://github.com/jain-rithik)
 
-- 💬 Ask me about **MERN Stack and Competitive Programming**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **<jainrithik2000@gmail.com>**
 <br>
