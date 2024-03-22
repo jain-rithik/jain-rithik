@@ -8,7 +8,7 @@
   </tr>
 </table>
 <br>
-<img align="right" alt="Coding" width="375" src="https://valesh.dev/images/coder.gif">
+<img align="right" alt="Coding" width="371" src="https://valesh.dev/images/coder.gif">
 
 
 - 🔭 As a self-driven individual passionate about coding, I've dedicated myself to learning software development. With courses completed in MERN stack web development, I'm excited about the opportunities that lie ahead in the tech industry.
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **<jainrithik2000@gmail.com>**
 
-- 🤝 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jainrithik)
+- 🤝 Connect with me on <a target="_blank" href="https://linkedin.com/in/jainrithik"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align: middle;" /></a>
 <br>
 <br>
 
