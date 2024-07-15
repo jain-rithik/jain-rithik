@@ -43,8 +43,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jain-rithik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=jain-rithik&icon=0&color=10)](https://visitcount.itsvg.in) -->
 
